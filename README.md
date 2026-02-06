@@ -1,6 +1,6 @@
 # Momentum Portfolio Alpha:  Fama-French 5-Factor Regime Analysis
 
-**Authors:** Syed Bashir Hydari, Pablo Rocha Gomez, Amaan Khan
+**Authors:** Syed Bashir Hydari et al.
 
 **Date:** December 16, 2025
 
