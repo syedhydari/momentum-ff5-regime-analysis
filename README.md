@@ -55,11 +55,6 @@ This project was completed for Linear Regression Models at Columbia University i
 - Fama & French (2015) - Five-factor asset pricing model
 - Carhart (1997) - Momentum factor construction
 
-## Citation
-
-If you reference or build upon this work, please cite as:
-Hydari, S. B. et al. (2025). Do Momentum Portfolio Returns Exhibit Abnormal Performance After Controlling for Fama-French Five Factors? A Regime-Dependent Analysis of Factor-Adjusted Returns. https://github.com/syedhydari/momentum-alpha-ff5-regime-analysis
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
