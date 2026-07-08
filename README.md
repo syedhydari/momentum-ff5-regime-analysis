@@ -31,13 +31,6 @@ This project examines whether momentum portfolio returns exhibit statistically s
 - `Final-Code.rmd` - Complete R Markdown source code with data acquisition, analysis, and reporting
 - `Final-Report.pdf` - Compiled academic report with full results and interpretation
 
-## Reproducibility
-
-### Requirements
-- R (version 4.0+)
-- Quarto
-- Required R packages: `tidyverse`, `lubridate`, `knitr`, `kableExtra`, `zoo`, `car`, `lmtest`, `sandwich`, `ggfortify`
-
 ## Academic Context
 
 This project was completed for Linear Regression Models at Columbia University in December 2025. The analysis follows established methodologies from:
