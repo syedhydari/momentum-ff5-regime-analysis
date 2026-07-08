@@ -1,6 +1,6 @@
 # Momentum Alpha: FF5 Regime Analysis
 
-Date: December, 2025
+December 2025 — Columbia Linear Regression Models class project: statistical analysis of momentum alpha using the Fama-French Five-Factor framework with regime-dependent modeling.
 
 ## Project Overview
 
