@@ -1,9 +1,5 @@
 # Momentum Portfolio Alpha:  Fama-French 5-Factor Regime Analysis
 
-**Authors:** Syed Bashir Hydari et al.
-
-**Date:** December 16, 2025
-
 ## Project Overview
 
 This project examines whether momentum portfolio returns exhibit statistically significant abnormal performance (alpha) after controlling for the Fama-French Five-Factor model. Using monthly U.S. equity data from 2010-2024, we test for both unconditional alpha and regime-dependent effects across market volatility states. 
@@ -54,6 +50,8 @@ This project was completed for Linear Regression Models at Columbia University i
 - Jegadeesh & Titman (1993) - Original momentum documentation
 - Fama & French (2015) - Five-factor asset pricing model
 - Carhart (1997) - Momentum factor construction
+
+**Authors:** Syed Bashir Hydari et al.
 
 ## License
 
