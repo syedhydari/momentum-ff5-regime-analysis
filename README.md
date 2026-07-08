@@ -1,4 +1,4 @@
-# Momentum Alpha:  Fama-French 5-Factor Regime Analysis
+# Momentum Alpha: FF5 Regime Analysis
 
 ## Project Overview
 
