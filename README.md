@@ -36,14 +36,6 @@ This project examines whether momentum portfolio returns exhibit statistically s
 - Quarto
 - Required R packages: `tidyverse`, `lubridate`, `knitr`, `kableExtra`, `zoo`, `car`, `lmtest`, `sandwich`, `ggfortify`
 
-## Key Visualizations
-
-The analysis includes:
-- Time series plots of momentum returns across volatility regimes
-- Scatterplots showing momentum's negative correlation with market returns
-- Diagnostic plots for model validation
-- Correlation heatmaps of factor relationships
-
 ## Academic Context
 
 This project was completed for Linear Regression Models at Columbia University in December 2025. The analysis follows established methodologies from:
@@ -51,13 +43,10 @@ This project was completed for Linear Regression Models at Columbia University i
 - Fama & French (2015) - Five-factor asset pricing model
 - Carhart (1997) - Momentum factor construction
 
-**Authors:** Syed Bashir Hydari et al.
+## Authors
+
+Syed Bashir Hydari et al.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Syed Bashir Hydari - [GitHub: @syedhydari]
-- For questions about methodology or results, please open an issue
