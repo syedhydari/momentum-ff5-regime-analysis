@@ -1,4 +1,4 @@
-# Momentum Portfolio Alpha:  Fama-French 5-Factor Regime Analysis
+# Momentum Alpha:  Fama-French 5-Factor Regime Analysis
 
 ## Project Overview
 
