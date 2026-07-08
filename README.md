@@ -1,5 +1,7 @@
 # Momentum Alpha: FF5 Regime Analysis
 
+Date: December, 2025
+
 ## Project Overview
 
 This project examines whether momentum portfolio returns exhibit statistically significant abnormal performance (alpha) after controlling for the Fama-French Five-Factor model. Using monthly U.S. equity data from 2010-2024, we test for both unconditional alpha and regime-dependent effects across market volatility states. 
