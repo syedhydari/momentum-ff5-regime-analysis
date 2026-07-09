@@ -30,6 +30,6 @@ The analysis tests both unconditional momentum alpha and regime-dependent effect
 
 The baseline model estimates a monthly momentum alpha of approximately 0.29%, or about 3.5% annualized, with marginal statistical significance. The regime-interaction model suggests that momentum’s defensive characteristics strengthen during high-volatility periods, while FF5 factors explain only a limited share of momentum return variation.
 
-## Reproducibility Note
+## Note
 
 This repository contains selected academic materials from a Columbia Linear Regression Models project. It is not investment advice and does not contain production trading infrastructure.
