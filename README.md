@@ -1,47 +1,35 @@
-# Momentum Alpha: FF5 Regime Analysis
+# Momentum Alpha | FF5 Regime Analysis
 
-December 2025 — Columbia Linear Regression Models class project: statistical analysis of momentum alpha using the Fama-French Five-Factor framework with regime-dependent modeling.
+**Fall 2025 — STAT GR 5205 Linear Regression Models:** Columbia class project analyzing momentum alpha using Fama-French Five-Factor regression with regime-dependent volatility interactions.
 
-## Project Overview
+## Project Context
 
-This project examines whether momentum portfolio returns exhibit statistically significant abnormal performance (alpha) after controlling for the Fama-French Five-Factor model. Using monthly U.S. equity data from 2010-2024, we test for both unconditional alpha and regime-dependent effects across market volatility states. 
+- **Date:** Fall 2025
+- **Course:** STAT GR 5205 — Linear Regression Models
+- **Institution:** Columbia University
+- **Project Type:** Graduate class project
+- **Author:** Syed Bashir Hydari et al.
+- **Research Area:** Factor modeling, momentum alpha, linear regression, market regimes, and asset-pricing inference
 
-### Research Questions
-1. Do momentum portfolios earn significant alpha after controlling for FF5 factors?
-2. Does momentum's effectiveness vary across high vs. low volatility regimes? 
+## Overview
 
-### Key Findings
-- Monthly alpha of 0.29% (~3.5% annually) with marginal statistical significance (p=0.074)
-- **Significant negative market beta (-0.28)** indicating defensive/contrarian characteristics
-- Momentum's defensive properties **strengthen during high-volatility periods**
-- FF5 factors explain only 23.7% of momentum variance, suggesting unique return dimensions
+This project examines whether momentum portfolio returns exhibit abnormal performance after controlling for the Fama-French Five-Factor model.
 
-## Methodology
+The analysis tests both unconditional momentum alpha and regime-dependent effects across high- and low-volatility market states using monthly U.S. equity data from 2010–2024.
 
-- **Data Source:** Kenneth R. French Data Library
-- **Sample Period:** January 2010 - December 2024 (180 monthly observations)
-- **Models:** 
-  - Model A: Standard FF5 factor regression
-  - Model B:  Regime-interaction model with volatility-dependent betas
-- **Statistical Methods:** OLS regression with Newey-West HAC robust standard errors
-- **Regime Definition:** 12-month rolling volatility median split
+## Methods
 
-## Repository Contents
+- Fama-French Five-Factor regression
+- Momentum portfolio return analysis
+- Volatility-regime interaction modeling
+- OLS regression
+- Newey-West HAC robust standard errors
+- 12-month rolling-volatility regime classification
 
-- `Final-Code.rmd` - Complete R Markdown source code with data acquisition, analysis, and reporting
-- `Final-Report.pdf` - Compiled academic report with full results and interpretation
+## Key Result
 
-## Academic Context
+The baseline model estimates a monthly momentum alpha of approximately 0.29%, or about 3.5% annualized, with marginal statistical significance. The regime-interaction model suggests that momentum’s defensive characteristics strengthen during high-volatility periods, while FF5 factors explain only a limited share of momentum return variation.
 
-This project was completed for Linear Regression Models at Columbia University in December 2025. The analysis follows established methodologies from:
-- Jegadeesh & Titman (1993) - Original momentum documentation
-- Fama & French (2015) - Five-factor asset pricing model
-- Carhart (1997) - Momentum factor construction
+## Reproducibility Note
 
-## Authors
-
-Syed Bashir Hydari et al.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository contains selected academic materials from a Columbia Linear Regression Models project. It is not investment advice and does not contain production trading infrastructure.
